@@ -1,6 +1,6 @@
 Exon Lengths by Area in chr7
 
-This repository contains an R Markdown report titled "Exon Lengths by Area in chr7", authored by ilbilgeulukoy. The report explores genomic features of chromosome 7 (chr7) using a .tsv file containing gene and transcript data.
+This repository contains an R Markdown report "Exon Lengths by Area in chr7". The report explores genomic features of chromosome 7 (chr7) using a .tsv file containing gene and transcript data. 
 
 🔬 Project Overview
 
